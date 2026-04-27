@@ -1,10 +1,10 @@
-# From Surge to Strain: A Time-Series Diagnostic Analysis of Temporal Lags in Healthcare Demand During Known Public Health Emergencies in Bangladesh
+# Forecasting Healthcare Call Demand Under Structural Breaks: A Time-Series Study of Public Health Emergencies in Bangladesh
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-This is a time-series diagnostic analysis of temporal lags in healthcare demand during known public health emergencies in Bangladesh.
+This project develops break-aware time-series models to forecast healthcare call demand during known public health emergencies in Bangladesh.
 
 ## Project Organization
 
