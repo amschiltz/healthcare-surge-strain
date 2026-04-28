@@ -1,0 +1,7 @@
+clean_column,description,example_or_unit
+total_calls,Total inbound calls received by the healthcare service.,Count of calls
+total_doctor_consults,Calls that resulted in doctor consultation.,Count of consult calls
+health_info,Calls requesting general health information.,Count of information calls
+ambulance_info,Calls requesting ambulance-related information.,Count of information calls
+complaints,Calls logged as complaints (system strain proxy).,Count of complaint calls
+service_info,Calls asking about available services.,Count of service inquiry calls

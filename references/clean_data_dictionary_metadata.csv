@@ -1,0 +1,8 @@
+meta_key,meta_value
+dataset_name,call_data_cleaned
+index_name,Date
+index_dtype,datetime64[ns]
+index_frequency_expected,MS
+date_min,2016-04-01
+date_max,2025-02-01
+index_created_from,Year + Month
