@@ -1,10 +1,10 @@
-# Forecasting Healthcare Call Demand Under Structural Breaks: A Time-Series Study of Public Health Emergencies in Bangladesh
+# Forecasting Healthcare Call Demand Across the COVID-Era Structural Break: Evidence from Bangladesh Health Portal Call Data
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-This project develops break-aware time-series models to forecast healthcare call demand during known public health emergencies in Bangladesh.
+This project develops break-aware time-series models to forecast healthcare call demand across the COVID-Era structural break in Bangladesh.
 
 ## Project Organization
 
